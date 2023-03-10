@@ -1,0 +1,23 @@
+
+         .line{
+           display: block;
+           margin: 10px;
+           text-align: center;
+        
+          }
+
+          #myForm{
+            margin-top: 100px;
+          }
+
+    
+          .palm{
+            background-color: rgb(125, 146, 125);
+          }
+
+          .footer{
+             color: blue;
+                text-align: center;
+                    padding-top: 200px;
+                }
+       
